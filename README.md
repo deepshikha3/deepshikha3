@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepshikha3
-- 👀 I’m interested in working on Java, collaborating with teams to play around with code to deliver great functionalites
-- 🌱 I’m currently learning AWS Cloud 
+- 👀 I’m interested in working on building Frontend projects, to create amazing User Interfaces/Websites.
+- 🌱 I love collaborating, discussing with teams to reach to the best solution because I beleive together we solve better.
 - 💞️ I’m looking to collaborate on Cloud development
 - 📫 Reach me through my LinkedIn www.linkedin.com/in/deepshikha-singh-linked or drop an email @deepshikhasingh4@gmail.com
 
